@@ -1934,9 +1934,9 @@ landscape:
             twitter: 'https://twitter.com/travisci'
             crunchbase: 'https://www.crunchbase.com/organization/travis-ci'
           - item:
-            name: WaveMaker HyScale
+            name: HyScale
             homepage_url: 'https://www.wavemaker.com/hyscale/'
-            logo: 'https://www.wavemaker.com/wp-content/uploads/logo-wavemaker-hyscale.svg'
+            logo: 'https://www.hyscale.io/assets/images/logo/logo.svg'
             twitter: 'https://twitter.com/wavemaker'
             crunchbase: 'https://www.crunchbase.com/organization/wavemaker'
           - item:
