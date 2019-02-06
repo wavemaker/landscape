@@ -1935,10 +1935,10 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/travis-ci'
           - item:
             name: HyScale
-            homepage_url: 'https://www.wavemaker.com/hyscale/'
+            homepage_url: 'https://www.hyscale.io/'
             logo: 'https://www.hyscale.io/assets/images/logo/logo.svg'
-            twitter: 'https://twitter.com/wavemaker'
-            crunchbase: 'https://www.crunchbase.com/organization/wavemaker'
+            twitter: 'https://twitter.com/hyscaleio'
+            crunchbase: 'https://www.crunchbase.com/organization/pramati-technologies'
           - item:
             name: Weave Flux
             homepage_url: 'https://www.weave.works/oss/flux/'
