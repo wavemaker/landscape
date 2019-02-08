@@ -1876,6 +1876,12 @@ landscape:
             twitter: 'https://twitter.com/cloud66'
             crunchbase: 'https://www.crunchbase.com/organization/cloudblocks'
           - item:
+            name: HyScale
+            homepage_url: 'https://www.hyscale.io/'
+            logo: 'https://www.hyscale.io/assets/images/logo/logo.svg'
+            twitter: 'https://twitter.com/hyscaleio'
+            crunchbase: 'https://www.crunchbase.com/organization/wavemaker'
+          - item:
             name: Jenkins
             homepage_url: 'https://jenkins.io/'
             repo_url: 'https://github.com/jenkinsci/jenkins'
@@ -1933,12 +1939,6 @@ landscape:
             logo: 'https://www.python.org/m/files/TravisCI-Horizontal_ETgVQqa.svg'
             twitter: 'https://twitter.com/travisci'
             crunchbase: 'https://www.crunchbase.com/organization/travis-ci'
-          - item:
-            name: WaveMaker HyScale
-            homepage_url: 'https://www.wavemaker.com/hyscale/'
-            logo: 'https://www.wavemaker.com/wp-content/uploads/logo-wavemaker-hyscale.svg'
-            twitter: 'https://twitter.com/wavemaker'
-            crunchbase: 'https://www.crunchbase.com/organization/wavemaker'
           - item:
             name: Weave Flux
             homepage_url: 'https://www.weave.works/oss/flux/'
